@@ -1,0 +1,10 @@
+{
+  "id": 0,
+  "username": "pperez",
+  "firstName": "pepe",
+  "lastName": "perez",
+  "email": "string",
+  "password": "string",
+  "phone": "string",
+  "userStatus": 0
+}

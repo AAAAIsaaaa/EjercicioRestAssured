@@ -1,0 +1,18 @@
+{
+  "id": 666,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "cacatua",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
